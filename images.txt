@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-tomcat:8.0.18-jre8
+registry.k8s.io/kube-apiserver:v1.31.3
