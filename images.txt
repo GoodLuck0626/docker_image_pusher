@@ -4,4 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/karmada/karmada-aggregated-apiserver:v1.12.3
+docker.io/karmada/karmada-controller-manager:v1.12.3
+docker.io/karmada/karmada-scheduler:v1.12.3
+docker.io/karmada/karmada-webhook:v1.12.3
+registry.k8s.io/kube-controller-manager:v1.31.3
