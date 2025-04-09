@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-alpine:3.21.2
+docker.io/library/alpine:latest
+docker.io/library/golang:1.22.11
