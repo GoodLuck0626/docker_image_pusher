@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-karmada/karmada-aggregated-apiserver:v1.31.3
+goland:1.24.4
