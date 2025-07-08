@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-volcanosh/example-mpi:0.0.1
+gcr.io/kubeflow-ci/pytorch-dist-sendrecv-test:1.0
